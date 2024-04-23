@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@wppconnect-team/wppconnect": "^1.13.1",
-    "mysql2": "^3.9.4",
+    "mysql2": "^3.9.7",
     "winston": "^3.7.2"
   }
 }
